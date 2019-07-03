@@ -46,7 +46,7 @@ class App extends React.Component {
       })
     }
 
-    render() {
+    render() { 
         return  (
             <div className="App">
                 <h4> AmazingCO Events </h4>
